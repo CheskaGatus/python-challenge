@@ -1,6 +1,6 @@
 # Python Challenge
 
-# PyBank
+## PyBank
 A set of financial data called budget_data.csv is composed of two columns: Date and Profit/Losses. 
 Created a Python script for analyzing the records to calculate each of the following:
 * The total number of months included in the dataset
@@ -10,7 +10,7 @@ Created a Python script for analyzing the records to calculate each of the follo
 * The greatest decrease in losses (date and amount) over the entire period
 Final script both prints the analysis to the terminal and exports a text file with the results.
 
-# PyPoll
+## PyPoll
 A set of poll data called election_data.csv is composed of three columns: Voter ID, County, and Candidate. 
 Created a Python script that analyzes the votes and calculates each of the following:
 * The total number of votes cast
